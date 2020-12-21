@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T19:26:29.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.43 Safari/537.36" etag="jGxsbjVAir2_8rXmtfzg" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T19:32:51.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.43 Safari/537.36" etag="F_gGPvGiz_nKUuWsyy1Z" version="14.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1831" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,17 @@
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Akl_5bdxyRWiEKbB5AHo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Akl_5bdxyRWiEKbB5AHo-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="bot pinged with id" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="150" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-1" target="Akl_5bdxyRWiEKbB5AHo-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-1" value="Scammer has account access&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-3" target="Akl_5bdxyRWiEKbB5AHo-13">
           <mxGeometry relative="1" as="geometry" />
@@ -124,13 +130,47 @@
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-33" value="Both" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-36" target="Akl_5bdxyRWiEKbB5AHo-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="https://support.steampowered.com/kb_article.php?ref=1927-RTSV-6909" link="https://support.steampowered.com/kb_article.php?ref=1927-RTSV-6909" id="Akl_5bdxyRWiEKbB5AHo-36">
           <mxCell style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="-190" y="1169" width="330" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-38" target="Akl_5bdxyRWiEKbB5AHo-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-38" value="https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="1169" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-42" value="DO NOT BLOCK SCAMMER YET. DO NOT RESPOND" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-190" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-44" target="Akl_5bdxyRWiEKbB5AHo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-44" value="read this guide carefully&lt;br&gt;https://steamcommunity.com/sharedfiles/filedetails/?id=1126288560" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="455" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-48" target="Akl_5bdxyRWiEKbB5AHo-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="1370" />
+              <mxPoint x="170" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-48" value="Incorrect ping?" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-50" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
