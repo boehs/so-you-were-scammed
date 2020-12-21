@@ -1,0 +1,15 @@
+Don't accept random friend requests from low-level Steam accounts unless you played a game with them and would like to add them or are okay getting spammed by bots. Also don't click links in chat unless you're comfortable with the possibility of being infected and possibly having your account stolen.
+
+There is no such thing as "item verification", and no Steam employee will ever ask you to send them your items for any reason. If you get a trade offer for in-game items be careful to look for and read a pop-up dialog if any is shown -- games have been making fake items with names and graphics from Team Fortress 2 and other games which are being used to scam-trade worthless items for those of value, and a pop-up now shows if you're trading for things from a game you've never played.
+
+valve emploeeys will never contact you using any live chat platform such as steam chat or discord. 
+when they do contact you you will get a special notification that looks like this.
+https://i.imgur.com/FgPWwCr.png
+
+valve employees will never ask for login details, passwords, usernames, auth codes, items, gift cards, or anything of that sort. if they do so you are being scammed
+
+There's no such thing as appealing a pending or false report or ban.
+There's no such thing as a pending ban.
+There's no such thing as a pending report.
+There's no such thing as a false report.
+There's no such thing as item verification or item scanning.
