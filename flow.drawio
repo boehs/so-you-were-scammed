@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T18:43:10.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.43 Safari/537.36" etag="j5OdI6ODsh_gdO0OMYSm" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T19:26:29.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.43 Safari/537.36" etag="jGxsbjVAir2_8rXmtfzg" version="14.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1004" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,11 +19,16 @@
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-1" value="Scammer has account access&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Akl_5bdxyRWiEKbB5AHo-3" value="Scammer has some details" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Akl_5bdxyRWiEKbB5AHo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-5" target="Akl_5bdxyRWiEKbB5AHo-7">
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-3" target="Akl_5bdxyRWiEKbB5AHo-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-3" value="Scammer has some details" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-5" target="Akl_5bdxyRWiEKbB5AHo-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="610" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-5" value="Scammer has no details" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
@@ -32,16 +37,100 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-7" value="Block scammer" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-9" target="Akl_5bdxyRWiEKbB5AHo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Akl_5bdxyRWiEKbB5AHo-9" value="Read through&amp;nbsp;https://www.reddit.com/r/Steam/wiki/secureyouraccount" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="400" width="370" height="60" as="geometry" />
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-9" value="Enable steam&amp;nbsp;guard" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-11" target="Akl_5bdxyRWiEKbB5AHo-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Akl_5bdxyRWiEKbB5AHo-11" value="read scams.txt" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-13" target="Akl_5bdxyRWiEKbB5AHo-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539" y="410" />
+              <mxPoint x="570" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-13" value="What details?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-17" target="Akl_5bdxyRWiEKbB5AHo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-17" value="Password" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-22" target="Akl_5bdxyRWiEKbB5AHo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-22" value="Change password" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-26" target="Akl_5bdxyRWiEKbB5AHo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-26" target="Akl_5bdxyRWiEKbB5AHo-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="970" />
+              <mxPoint x="260" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-26" target="Akl_5bdxyRWiEKbB5AHo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-26" target="Akl_5bdxyRWiEKbB5AHo-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-26" value="Have scammers discord/steam?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="900" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-28" target="Akl_5bdxyRWiEKbB5AHo-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-28" value="Steam" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-30" target="Akl_5bdxyRWiEKbB5AHo-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-30" value="Discord" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-33" target="Akl_5bdxyRWiEKbB5AHo-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Akl_5bdxyRWiEKbB5AHo-33" target="Akl_5bdxyRWiEKbB5AHo-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1140" />
+              <mxPoint x="160" y="1140" />
+              <mxPoint x="160" y="1160" />
+              <mxPoint x="190" y="1160" />
+              <mxPoint x="190" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-33" value="Both" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="https://support.steampowered.com/kb_article.php?ref=1927-RTSV-6909" link="https://support.steampowered.com/kb_article.php?ref=1927-RTSV-6909" id="Akl_5bdxyRWiEKbB5AHo-36">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="-190" y="1169" width="330" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Akl_5bdxyRWiEKbB5AHo-38" value="https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1169" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
